@@ -12,7 +12,7 @@ client.on("ready", () => {
     // This event will run if the bot starts, and logs in, successfully.
     // Example of changing the bot's playing game to something useful. `client.user` is what the
     // docs refer to as the "ClientUser".
-    client.user.setActivity(`Welcoming Users!`);
+    client.user.setActivity(`with Quizzard Trivia!!`);
   });
   
 // Create an event listener for when a member joins
